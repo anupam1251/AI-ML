@@ -3,6 +3,7 @@
 #include <sstream>
 #include <unordered_map>
 #include <memory>
+
 class Tokenization {
 protected:
     size_t m_id;
